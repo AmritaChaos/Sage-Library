@@ -55,6 +55,15 @@
       "totalChapters": 58
     },
     {
+      "id": "ensnared-the-spider-s-mate-book-1",
+      "title": "Ensnared: The Spider's Mate (Book 1)",
+      "author": "Tiffany Roberts",
+      "description": "",
+      "totalWords": 94510,
+      "totalPages": 95,
+      "totalChapters": 35
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -406,5 +415,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T02:42:35.982Z"
+  "updatedAt": "2026-05-12T03:13:03.668Z"
 }
