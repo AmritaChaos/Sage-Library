@@ -181,6 +181,15 @@
       "totalChapters": 22
     },
     {
+      "id": "taste-as-experience",
+      "title": "Taste as Experience",
+      "author": "Nicola Perullo",
+      "description": "Taste as Experience puts the pleasure of food at the center of human experience. It shows how the sense of taste informs our preferences and relationship to nature, pushes us toward ethical practices of consumption, and impresses upon us the importance of aesthetics. Eating is often dismissed as a necessary aspect of survival, and our personal enjoyment of food is considered a quirk. Nicola Perullo sees food as the only portion of the world we take in on a daily basis, constituting our first and",
+      "totalWords": 59467,
+      "totalPages": 60,
+      "totalChapters": 13
+    },
+    {
       "id": "the-alignment-problem",
       "title": "The Alignment Problem",
       "author": "Brian Christian",
@@ -397,5 +406,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T01:21:50.377Z"
+  "updatedAt": "2026-05-12T02:42:35.982Z"
 }
