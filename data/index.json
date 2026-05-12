@@ -28,6 +28,15 @@
       "totalChapters": 24
     },
     {
+      "id": "circe",
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "description": "The daring, dazzling and highly anticipated follow-up to the New York Times bestseller The Song of Achilles One of the Most Anticipated Books of 2018 \"An epic spanning thousands of years that's also a keep-you-up-all-night page turner.\" - Ann Patchett In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child&#8212;not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she",
+      "totalWords": 125439,
+      "totalPages": 126,
+      "totalChapters": 34
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -388,5 +397,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-09T23:53:20.166Z"
+  "updatedAt": "2026-05-12T01:21:50.377Z"
 }
