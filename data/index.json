@@ -109,6 +109,15 @@
       "totalChapters": 40
     },
     {
+      "id": "iron-flame",
+      "title": "Iron Flame",
+      "author": "Rebecca Yarros",
+      "description": "The instant number one Sunday Times bestseller and thrilling sequel to the global phenomenon, Fourth Wing! Don''t miss out on the series that the world can''t stop talking about: ''An absolute romantasy sensation . . . Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion'' - Guardian ''Fear not, levels of fighting, rebelliousness and all-round sexiness are still sky-high'' - Daily Mail ''Iron Flame is on course to set the world alight'' - Glamour ''Yarros had",
+      "totalWords": 252397,
+      "totalPages": 253,
+      "totalChapters": 134
+    },
+    {
       "id": "learning-to-love-the-spaces-in-between",
       "title": "Learning to Love the Spaces in Between",
       "author": "Claire Gillman",
@@ -433,5 +442,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-20T23:18:19.258Z"
+  "updatedAt": "2026-05-20T23:26:02.529Z"
 }
