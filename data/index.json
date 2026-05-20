@@ -73,6 +73,15 @@
       "totalChapters": 35
     },
     {
+      "id": "fourth-wing",
+      "title": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "description": "Series: The Empyrean #1 Genre: Fantasy ebook, 492 pages Hardcover, 512 pages Published: 2023 Enter the brutal and elite world of a war college for dragon riders from USA Today bestselling author Rebecca Yarros Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: drag",
+      "totalWords": 185463,
+      "totalPages": 186,
+      "totalChapters": 47
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -424,5 +433,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-20T23:08:09.959Z"
+  "updatedAt": "2026-05-20T23:18:19.258Z"
 }
