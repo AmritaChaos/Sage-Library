@@ -37,6 +37,15 @@
       "totalChapters": 34
     },
     {
+      "id": "death-s-obsession-a-paranormal-dark-romance",
+      "title": "Death's Obsession: A Paranormal Dark Romance",
+      "author": "Avina St. Graves",
+      "description": "",
+      "totalWords": 41353,
+      "totalPages": 42,
+      "totalChapters": 21
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -415,5 +424,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-12T03:13:03.668Z"
+  "updatedAt": "2026-05-20T23:08:09.959Z"
 }
