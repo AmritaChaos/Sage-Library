@@ -73,6 +73,15 @@
       "totalChapters": 58
     },
     {
+      "id": "dustwalker",
+      "title": "Dustwalker",
+      "author": "Tiffany Roberts",
+      "description": "",
+      "totalWords": 137560,
+      "totalPages": 138,
+      "totalChapters": 41
+    },
+    {
       "id": "ensnared-the-spider-s-mate-book-1",
       "title": "Ensnared: The Spider's Mate (Book 1)",
       "author": "Tiffany Roberts",
@@ -487,5 +496,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-07-03T09:12:29.773Z"
+  "updatedAt": "2026-07-28T05:51:41.076Z"
 }
