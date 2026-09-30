@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "towles-amor-a-gentleman-in-moscow",
+      "title": "Towles, Amor - A Gentleman in Moscow",
+      "author": "Towles, Amor",
+      "description": "\"The book moves briskly from one crisp scene to the next, and ultimately casts a spell as captivating as Rules of Civility , a book that inhales you into its seductively Gatsby-esque universe.\" &#8212; Town & Country From the New York Times bestselling author of Rules of Civility &#8212;a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel With his breakout debut novel, Rules of Civility , Amor Towles established himself as a master of absorbing, sop",
+      "totalWords": 153497,
+      "totalPages": 154,
+      "totalChapters": 55
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -17,6 +26,15 @@
       "totalWords": 108395,
       "totalPages": 109,
       "totalChapters": 33
+    },
+    {
+      "id": "braiding-sweetgrass-indigenous-wisdom-scientific-knowledge-and-the-teachings-of-plants-by-robin-wall-kimmerer-conversation-starters",
+      "title": "Braiding Sweetgrass--Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants by Robin Wall Kimmerer--Conversation Starters",
+      "author": "dailyBooks",
+      "description": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants by Robin Wall Kimmerer: Conversation Starters Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants is a book by botanist Robin Wall Kimmerer that underlines human relationship to the natural world. Kimmerer talks about the traditional ecological knowledge of the Potawatomi tribe and how this knowledge can help in shaping scientific research and knowledge. The name of the ",
+      "totalWords": 5953,
+      "totalPages": 6,
+      "totalChapters": 7
     },
     {
       "id": "butcher-and-blackbird",
@@ -208,6 +226,15 @@
       "totalChapters": 35
     },
     {
+      "id": "never-let-me-go",
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "description": "EDITORIAL REVIEW: From the Booker Prize-winning author of **The Remains of the Day** and **When We Were Orphans**, comes an unforgettable edge-of-your-seat mystery that is at once heartbreakingly tender and morally courageous about what it means to be human.Hailsham seems like a pleasant English boarding school, far from the influences of the city. Its students are well tended and supported, trained in art and literature, and become just the sort of people the world wants them to be. But, curiou",
+      "totalWords": 96468,
+      "totalPages": 97,
+      "totalChapters": 24
+    },
+    {
       "id": "now-you-re-mine-a-dark-stalker-romance-possessing-her-book-2",
       "title": "Now You're Mine: A Dark Stalker Romance (Possessing Her Book 2)",
       "author": "Morgan Bridges",
@@ -224,6 +251,15 @@
       "totalWords": 72298,
       "totalPages": 73,
       "totalChapters": 46
+    },
+    {
+      "id": "pilgrim-at-tinker-creek",
+      "title": "Pilgrim at Tinker Creek",
+      "author": "Annie Dillard",
+      "description": "Pilgrim at Tinker Creek is the story of a dramatic year in Virginia's Blue Ridge valley. Annie Dillard sets out to see what she can see. What she sees are astonishing incidents of \"mystery, death, beauty, violence.\" Review The precision of individual words, the vitality of metaphor, the sheer profusion of sources, the vivid sensory and cerebral impressions all combine to make Pilgrim at Tinker Creek something extravagant and extraordinary. --Kirsten Backstrom, 500 Great Books by Women Pilgrim at",
+      "totalWords": 92090,
+      "totalPages": 93,
+      "totalChapters": 23
     },
     {
       "id": "pratchett-terry-discworld-16-soul-music",
@@ -370,6 +406,24 @@
       "totalChapters": 24
     },
     {
+      "id": "the-remains-of-the-day-by-kazuo-ishiguro-book-analysis",
+      "title": "The Remains of the Day by Kazuo Ishiguro (Book Analysis)",
+      "author": "BrightSummaries.com",
+      "description": "",
+      "totalWords": 3860,
+      "totalPages": 4,
+      "totalChapters": 8
+    },
+    {
+      "id": "the-rings-of-saturn",
+      "title": "The Rings of Saturn",
+      "author": "W.G. Sebald",
+      "description": "",
+      "totalWords": 70132,
+      "totalPages": 71,
+      "totalChapters": 2
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -496,5 +550,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-30T07:05:17.755Z"
+  "updatedAt": "2026-09-30T07:33:06.104Z"
 }

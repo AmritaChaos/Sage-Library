@@ -1,0 +1,26 @@
+{
+  "id": "the-rings-of-saturn",
+  "title": "The Rings of Saturn",
+  "author": "W.G. Sebald",
+  "description": "",
+  "filename": "The Rings of Saturn by by W.G Sebald.epub",
+  "totalWords": 70132,
+  "totalPages": 71,
+  "totalChapters": 2,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 29738,
+      "pageCount": 30,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 40394,
+      "pageCount": 41,
+      "startPage": 31
+    }
+  ]
+}
