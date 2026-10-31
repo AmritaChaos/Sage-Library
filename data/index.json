@@ -64,6 +64,24 @@
       "totalChapters": 34
     },
     {
+      "id": "crown-me-dead-a-dark-fantasy-romance",
+      "title": "Crown Me Dead: A Dark Fantasy Romance",
+      "author": "Zander, Liv",
+      "description": "",
+      "totalWords": 67444,
+      "totalPages": 68,
+      "totalChapters": 36
+    },
+    {
+      "id": "crown-me-yours-a-dark-fantasy-romance-heartstring-duet-book-2",
+      "title": "Crown Me Yours: A Dark Fantasy Romance (Heartstring Duet Book 2)",
+      "author": "Zander, Liv",
+      "description": "",
+      "totalWords": 61809,
+      "totalPages": 62,
+      "totalChapters": 30
+    },
+    {
       "id": "death-s-obsession-a-paranormal-dark-romance",
       "title": "Death's Obsession: A Paranormal Dark Romance",
       "author": "Avina St. Graves",
@@ -109,6 +127,15 @@
       "totalChapters": 35
     },
     {
+      "id": "feathers-so-vicious-a-dark-fantasy-romance-court-of-ravens-book-1",
+      "title": "Feathers so Vicious: A Dark Fantasy Romance (Court of Ravens Book 1)",
+      "author": "Liv Zander",
+      "description": "",
+      "totalWords": 104367,
+      "totalPages": 105,
+      "totalChapters": 43
+    },
+    {
       "id": "fourth-wing",
       "title": "Fourth Wing",
       "author": "Rebecca Yarros",
@@ -152,6 +179,15 @@
       "totalWords": 252397,
       "totalPages": 253,
       "totalChapters": 134
+    },
+    {
+      "id": "king-of-flesh-and-bone-a-dark-fantasy-romance-the-pale-court-book-1",
+      "title": "King of Flesh and Bone: A Dark Fantasy Romance (The Pale Court Book 1)",
+      "author": "Liv Zander",
+      "description": "",
+      "totalWords": 66693,
+      "totalPages": 67,
+      "totalChapters": 28
     },
     {
       "id": "learning-to-love-the-spaces-in-between",
@@ -280,6 +316,15 @@
       "totalChapters": 30
     },
     {
+      "id": "queen-of-rot-and-pain-a-dark-fantasy-romance-the-pale-court-book-2",
+      "title": "Queen of Rot and Pain: A Dark Fantasy Romance (The Pale Court Book 2)",
+      "author": "Liv Zander",
+      "description": "",
+      "totalWords": 71021,
+      "totalPages": 72,
+      "totalChapters": 32
+    },
+    {
       "id": "scythe-sparrow",
       "title": "Scythe & Sparrow",
       "author": "Brynne Weaver",
@@ -287,6 +332,15 @@
       "totalWords": 112865,
       "totalPages": 113,
       "totalChapters": 36
+    },
+    {
+      "id": "shadows-so-cruel",
+      "title": "Shadows So Cruel",
+      "author": "Liv Zander",
+      "description": "More painful than love… are the secrets that bind and divide us. Adrift in a sky shadowed by war, We seek, we ache, Searching for the woman who fled us. We shattered her heart, but she unfurled her feathers, Our sweetheart, our little dove, Escaping our talons on pure white wings. One of us soars over battlements, Haunted by past mistakes, Vowing never to repeat them. The other storms through walls of stone and hatred, Eager to destroy the shackles of his past, Determined to shackle her to him i",
+      "totalWords": 119684,
+      "totalPages": 120,
+      "totalChapters": 56
     },
     {
       "id": "slaughterhouse-five-publisher-dell",
@@ -550,5 +604,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-10-31T01:49:25.832Z"
+  "updatedAt": "2026-10-31T01:59:53.119Z"
 }
