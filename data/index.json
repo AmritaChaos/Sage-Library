@@ -37,24 +37,6 @@
       "totalChapters": 34
     },
     {
-      "id": "cerulean-chronicles-1-the-house-in-the-cerulean-sea",
-      "title": "Cerulean Chronicles 1_ The House in the Cerulean Sea",
-      "author": "Tj Klune",
-      "description": "",
-      "totalWords": 116492,
-      "totalPages": 117,
-      "totalChapters": 24
-    },
-    {
-      "id": "circe",
-      "title": "Circe",
-      "author": "Madeline Miller",
-      "description": "The daring, dazzling and highly anticipated follow-up to the New York Times bestseller The Song of Achilles One of the Most Anticipated Books of 2018 \"An epic spanning thousands of years that's also a keep-you-up-all-night page turner.\" - Ann Patchett In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child&#8212;not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she",
-      "totalWords": 125439,
-      "totalPages": 126,
-      "totalChapters": 34
-    },
-    {
       "id": "crown-me-dead-a-dark-fantasy-romance",
       "title": "Crown Me Dead: A Dark Fantasy Romance",
       "author": "Zander, Liv",
@@ -80,24 +62,6 @@
       "totalWords": 41353,
       "totalPages": 42,
       "totalChapters": 21
-    },
-    {
-      "id": "does-god-play-dice-the-new-mathematics-of-chaos",
-      "title": "Does God Play Dice?: The New Mathematics of Chaos",
-      "author": "Ian Stewart",
-      "description": "Since the dramatic discovery of the mathematical concept of chaos in 1989, the controversy of its contents has settled down. This revised edition of Does God Play Dice? takes a fresh look at its achievements and potential. With a new preface and three completely new chapters, it includes the latest practical applications of chaos theory, such as developing intelligent heart pacemakers. All this provides a fascinating new answer to Einstien's question which provided the title of this book.",
-      "totalWords": 140963,
-      "totalPages": 141,
-      "totalChapters": 198
-    },
-    {
-      "id": "dune",
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "description": "Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, “Dune” tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the universe. The story explores the complex and multi-",
-      "totalWords": 207126,
-      "totalPages": 208,
-      "totalChapters": 58
     },
     {
       "id": "dustwalker",
@@ -143,24 +107,6 @@
       "totalWords": 324196,
       "totalPages": 325,
       "totalChapters": 65
-    },
-    {
-      "id": "his-dark-materials-the-complete-trilogy",
-      "title": "His Dark Materials: The Complete Trilogy",
-      "author": "Philip Pullman",
-      "description": "",
-      "totalWords": 380054,
-      "totalPages": 381,
-      "totalChapters": 90
-    },
-    {
-      "id": "house-of-leaves",
-      "title": "House of Leaves",
-      "author": "Mark Z. Danielewski",
-      "description": "",
-      "totalWords": 195141,
-      "totalPages": 196,
-      "totalChapters": 40
     },
     {
       "id": "iron-flame",
@@ -595,5 +541,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-10-31T02:13:22.451Z"
+  "updatedAt": "2026-10-31T02:17:02.304Z"
 }
