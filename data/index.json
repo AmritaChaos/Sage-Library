@@ -226,15 +226,6 @@
       "totalChapters": 46
     },
     {
-      "id": "pilgrim-at-tinker-creek",
-      "title": "Pilgrim at Tinker Creek",
-      "author": "Annie Dillard",
-      "description": "Pilgrim at Tinker Creek is the story of a dramatic year in Virginia's Blue Ridge valley. Annie Dillard sets out to see what she can see. What she sees are astonishing incidents of \"mystery, death, beauty, violence.\" Review The precision of individual words, the vitality of metaphor, the sheer profusion of sources, the vivid sensory and cerebral impressions all combine to make Pilgrim at Tinker Creek something extravagant and extraordinary. --Kirsten Backstrom, 500 Great Books by Women Pilgrim at",
-      "totalWords": 92090,
-      "totalPages": 93,
-      "totalChapters": 23
-    },
-    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -541,5 +532,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-10-31T02:17:02.304Z"
+  "updatedAt": "2026-11-02T02:07:37.248Z"
 }
