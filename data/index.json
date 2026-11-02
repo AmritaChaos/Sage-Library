@@ -100,15 +100,6 @@
       "totalChapters": 47
     },
     {
-      "id": "godel-escher-bach-an-eternal-golden-braid",
-      "title": "Godel, Escher, Bach-An Eternal Golden Braid",
-      "author": "Douglas R. Hofstadter",
-      "description": "",
-      "totalWords": 324196,
-      "totalPages": 325,
-      "totalChapters": 65
-    },
-    {
       "id": "iron-flame",
       "title": "Iron Flame",
       "author": "Rebecca Yarros",
@@ -532,5 +523,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-11-02T02:07:37.248Z"
+  "updatedAt": "2026-11-02T03:06:10.925Z"
 }
